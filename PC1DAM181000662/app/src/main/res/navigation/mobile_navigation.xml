@@ -28,4 +28,9 @@
         android:name="dev.sebastian.pc1dam18100066.ui.fragments.RendimientoFragment"
         android:label="@string/menu_rendimiento"
         tools:layout="@layout/fragment_rendimiento" />
+    <fragment
+        android:id="@+id/nav_equipo"
+        android:name="dev.sebastian.pc1dam18100066.ui.fragments.EquipoFragment"
+        android:label="@string/menu_equipo"
+        tools:layout="@layout/fragment_equipo" />
 </navigation>

@@ -11,4 +11,11 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="menu_rendimiento">Rendimiento</string>
+    <string name="valtitlerendimiento">El rendimiento es:</string>
+    <string name="valK">Kilometros recorridos</string>
+    <string name="valM">Minutos jugados</string>
+    <string name="valbtcal">Calcular</string>
+    <string name="valtitlerend">RENDIMIENTO</string>
+    <string name="menu_equipo">Equipo</string>
+    <string name="valtitlEq">EQUIPOS</string>
 </resources>
